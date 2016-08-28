@@ -40,7 +40,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
 
-                if(firebaseAuth.getCurrentUser() != null){
+                if(firebaseAuth.getCurrentUser() == null){
 
                 }else{
                     startActivity(new Intent(Login.this,Welcome.class));
