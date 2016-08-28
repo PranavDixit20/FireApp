@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6959111819",
+    "firebase_url": "https://fireapp-ef8cb.firebaseio.com",
+    "project_id": "fireapp-ef8cb",
+    "storage_bucket": "fireapp-ef8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6959111819:android:7a1aa70ed608ecd1",
+        "android_client_info": {
+          "package_name": "com.example.pranav.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6959111819-evo4pv1h4iida2a6g9ourtk462k4eo5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranav.fireapp",
+            "certificate_hash": "C89288B808B0D9185AACD46113FC34F42F225064"
+          }
+        },
+        {
+          "client_id": "6959111819-nn7e5pknru89o6o60j081blnnbkq33rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAief3g_izhVV-_vLYBoX7E04-PHVIxA8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6959111819-nn7e5pknru89o6o60j081blnnbkq33rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
